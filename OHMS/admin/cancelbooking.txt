@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <title>
+            Cancellation of booking
+        </title>
+    <style>
+     body{
+       background-color:grey;
+       background-image:url("cancel1.jpg");
+   </style>
+    </head>
+    <body><center><font color="black">
+        <h1><b>Room has been cancelled succesfully.</b></h1>
+        <a href="dashboard.php" >Back to the Home Page</a></font></center>
+    </body>
+</html>
